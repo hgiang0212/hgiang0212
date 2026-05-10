@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Giang (hgiang0212)
+## Hi there 👋 I'm Giang!
 
 
 # 💫 About Me:
