@@ -24,12 +24,20 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hgiang0212&theme=tokyonight" alt="hgiang0212 Streak" />
 </p>
 
-### 📈 Contribution Graph
+
+
+
+### 📊 Radar Chart
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hgiang0212&theme=tokyonight&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hgiang0212&theme=tokyonight" width="600" />
 </p>
 
----
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hgiang0212&show_icons=true&locale=vi&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgiang0212&layout=compact&theme=tokyonight&locale=vi" />
+</p>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=hgiang0212&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
