@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Giang!
+# <p align="center">Hi there 👋 I'm Giang!
 
 
 # 💫 About Me:
