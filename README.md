@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<br>👩🏻‍🎓 Studied Embedded System and IoT at Hanoi University of Science and Technology, VietNam<br>💭 Currently learning about AI Engineer and Computer Vision
+<br>👩🏻‍🎓 I'm currently studying Embedded System and IoT at Hanoi University of Science and Technology, VietNam<br>💭 I'm interested in learning about AI Engineer and Computer Vision
 
 
 ## 🌐 Socials:
